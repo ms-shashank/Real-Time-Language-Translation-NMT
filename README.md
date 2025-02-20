@@ -50,7 +50,7 @@ python translation.py
 ```
 Real-Time-Language-Translation-NMT/
 ├── translation.py          # Main script for translation
-├── ui.py                   # Streamlit UI (coming soon)
+├── app.py                   # Streamlit UI (coming soon)
 ├── requirements.txt        # Required Python packages
 ├── README.md               # Project documentation
 └── venv/                   # Virtual environment (not included in repo)
